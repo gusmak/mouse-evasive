@@ -1,0 +1,20 @@
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+.env
+
+# testing
+/coverage
+
+# production
+/build
+/lib
+/dist 
+
+# storybook
+storybook-static/
+.storybook-static/
+
+# type declarations for external modules
+src/stories/  
